@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+     <types>
+        <members>CarlosFolder</members>
+        <members>CarlosFolder/CarlosFolderlevel2/</members>
+        <members>CarlosFolder/CarlosFolderlevel2/CarlosFolderlevel3</members>
+        <members>CarlosFolder/CarlosFolderlevel2/CarlosFolderlevel3/New_Template_here_level_three_1644944118232</members>
+        <name>EmailTemplate</name>
+    </types>
+    <version>59.0</version>
+</Package>
